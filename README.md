@@ -1,4 +1,3 @@
-# systemd-netlogd-git_aur
+# systemd-netlogd-git
 
-
-github backup for aur package https://aur.archlinux.org/packages/systemd-netlogd
+aur package https://aur.archlinux.org/packages/systemd-netlogd
